@@ -2,6 +2,7 @@
 
 I am Yilong Tang, a student at Georgia Tech. I am Experienced in machine learning, data science, and data visualization. I love music!!!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangy1227)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tangy1227/tangy1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 I am Yilong Tang, a student at Georgia Tech. I am Experienced in machine learning, data science, and data visualization. I love music!!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangy1227&show_icons=true&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangy1227&show_icons=true&rank_icon=github&&bg_color=DEG,343d46,4f5b66,65737e,a7adba,c0c5ce)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangy1227&hide_progress=true)
 <!--

@@ -13,10 +13,10 @@ I'm Yilong Tang, currently a second year masters at Georgia Tech. My expertise l
 
 <details>
   <summary>Github Stats</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tangy1227&show_icons=true&rank_icon=github&title_color=3c5248&bg_color=DEG,96ceb4,ffeead,ffa09c,ffcc5c,88d8b0&hide_border=true)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangy1227&hide_progress=true&title_color=3c5248&bg_color=DEG,96ceb4,ffeead,ffa09c,ffcc5c,88d8b0&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tangy1227&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangy1227&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
+
 <!--
 **tangy1227/tangy1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

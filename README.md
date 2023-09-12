@@ -2,12 +2,7 @@
 
 I am Yilong Tang, a student at Georgia Tech. I am Experienced in machine learning, data science, and data visualization. I love music!!!
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=r,mysql,flask,html,css,vscode,figma,git" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **tangy1227/tangy1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

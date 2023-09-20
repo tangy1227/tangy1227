@@ -5,7 +5,7 @@ I'm Yilong Tang, currently a second year masters at Georgia Tech. My expertise l
 ### Languages/Frameworks/Tools
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,pytorch,tensorflow)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,d3,processing,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,d3,processing,flask)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,sqlite,r)](https://skillicons.dev)
 

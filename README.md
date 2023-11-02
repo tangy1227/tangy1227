@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yilong Tang, currently a second year masters at Georgia Tech. My expertise lies in machine learning, data science, and data visualization. In my free time, I enjoy in music production, cooking dishes, exploring nature, and doing road trips.
+I'm Yilong Tang, currently a second year masters at Georgia Tech. My expertise lies in machine learning, data science, and data visualization. In my free time, I enjoy in music production 🎛️, cooking dishes 🍳, exploring nature ⛰️, and doing road trips 🚗.
 
 ### Languages/Frameworks/Tools
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,pytorch,tensorflow)](https://skillicons.dev)

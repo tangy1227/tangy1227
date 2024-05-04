@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Yilong Tang, currently a second year masters at Georgia Tech. My expertise lies in machine learning, data science, and data visualization. In my free time, I enjoy in music production :control_knobs:, cooking dishes 🍳, exploring nature ⛰️, and doing road trips 🚗.
+I'm Yilong Tang, a masters graduate from Georgia Tech. My expertise lies in software engineering, machine learning, computer vision, data science, and game development. In my free time, I enjoy music production :control_knobs:, cooking dishes 🍳, exploring nature ⛰️, and doing road trips 🚗.
 
 ### Languages/Frameworks/Tools
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,pytorch,tensorflow)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,d3,processing,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,d3,processing,rust,cs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,sqlite,r)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,latex,arduino,figma,ps,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,latex,arduino,unity,ps,ableton)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats</summary>

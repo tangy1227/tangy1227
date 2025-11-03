@@ -7,9 +7,9 @@ I'm Yilong Tang, a masters graduate from Georgia Tech. My expertise lies in soft
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,d3,processing,rust,cs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,sqlite,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,anaconda,sqlite,r)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,latex,arduino,unity,ps,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vscode,git,latex,arduino,unity,ps,ableton)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats</summary>
